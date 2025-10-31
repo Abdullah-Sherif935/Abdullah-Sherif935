@@ -7,7 +7,7 @@
   <a href="https://youtube.com/@engabdullah-sherif?si=4Oli-0wm84v35MGa" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" height="30px" alt="YouTube"/></a> 
   <a href="#" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="30px" alt="LinkedIn"/></a> 
   <a href="https://www.facebook.com/share/18uJgkHxof/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" height="30px" alt="Facebook"/></a> 
-  <a href="Eng.abdullah.sherif@gmail.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" height="30px" alt="Gmail"/></a> 
+  <a href="mailto:eng.abdullah.sherif@gmail.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" height="30px" alt="Gmail"/></a> 
   <a href="https://www.tiktok.com/@eng_abdullah_sherif?is_from_webapp=1&sender_device=pc" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3046/3046126.png" height="30px" alt="TikTok"/></a> 
   <a href="https://www.instagram.com/abdullah_el_sherif?igsh=MW03aHlzNHBvYnFzaQ==" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" height="30px" alt="Instagram"/></a> 
   <a href="#" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" height="30px" alt="GitHub"/></a> 
