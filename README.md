@@ -53,8 +53,8 @@ I design and program intelligent machines using **Arduino, MATLAB, Simulink, C++
 ### 📊 GitHub Stats 
  
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdullahSherif&show_icons=true&theme=radical&hide_border=true" height="160px" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahSherif&layout=compact&theme=radical&hide_border=true" height="160px" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdullah-Sherif935&show_icons=true&theme=radical&hide_border=true" height="160px" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Sherif935&layout=compact&theme=radical&hide_border=true" height="160px" /> 
 </p> 
  
 --- 
