@@ -31,7 +31,7 @@ I design and program intelligent machines using **Arduino, MATLAB, Simulink, C++
 - 💡 **Simulation & Design** with SolidWorks, Factory I/O, and TIA Portal  
 - 🎥 **Educational Content Creation** on YouTube  
 - 🤝 Open to collaborations in **engineering & education**  
--  - **Sheet Metal Designer **
+-  - **Sheet Metal Designer**
 --- 
  
 ### 🛠️ Tech Stack & Tools 
